@@ -1,0 +1,16 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Simple Converter/*
+!/Simple Converter/task/
+/Simple Converter/task/*
+!/Simple Converter/task/main.sh
